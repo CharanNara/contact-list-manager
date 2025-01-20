@@ -9,7 +9,7 @@ A sample web application assignement to manage a contact list with the ability t
 
 Setup Instructions
 1. Clone the repository
-    git clone https://github.com/CharanNara/contact-list-manager-linq.git
+    git clone https://github.com/CharanNara/contact-list-manager.git
     cd contact-list-manager-linq
 
 2. Install dependencies
