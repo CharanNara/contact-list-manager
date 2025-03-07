@@ -1,5 +1,5 @@
 # Contact List Manager
-A sample web application assignement to manage a contact list with the ability to add, search, and delete contacts. The application uses a React frontend with a Node.js backend.
+A simple web application project to manage a contact list with the ability to add, search, and delete contacts. The application uses a React frontend with a Node.js backend.
 
 ### Project Structure
 - public/: Contains the static files for the React app (e.g., index.html, images).
