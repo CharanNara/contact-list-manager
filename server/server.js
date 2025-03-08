@@ -60,9 +60,9 @@ app.get('/contacts/search', (req, res) => {
     // Display the results
     print(results);
     if (results.length > 0) {
-        res.json(results);
+        return res.json(results);
     } else {
-        res.status(404).send('No contacts found for query: ' + query);
+        return res.status(404).send('No contacts found for query: ' + query);
     }
 });
 
